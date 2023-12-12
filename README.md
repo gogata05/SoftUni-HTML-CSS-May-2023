@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/pceIAgN.png" alt="Certificate"/>
+<img src="https://i.imgur.com/pceIAgN.png" alt="Certificate"/> 
 
 ### 📚 HTML & CSS - 2023
 
