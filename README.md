@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/pceIAgN.png" alt="Certificate"/> 
- 
+  
 ### 📚 SoftUni-HTML-CSS-May-2023
 
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4114/html-and-css-may-2023)
